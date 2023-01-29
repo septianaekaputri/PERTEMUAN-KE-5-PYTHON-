@@ -28,11 +28,14 @@
 ## Latihan 1
 * buat file latihan1.py
 
-![buat file latihan1](https://user-images.githubusercontent.com/47426095/196225814-00e353e7-4bf8-49fa-a0bf-dab618a3f01d.PNG)
+![buat file latihan1]
+<img width="112" alt="a" src="https://user-images.githubusercontent.com/123891182/215348760-afe311c0-ae56-41c7-a0db-47a2efc436d1.png">
 
 * tulis kode seperti contoh
 
-![sc latihan1](https://user-images.githubusercontent.com/47426095/196225840-74027b54-1759-44aa-a97a-24e6491f8ed9.PNG)
+![sc latihan1]
+<img width="733" alt="1" src="https://user-images.githubusercontent.com/123891182/215348783-dd2a6fe1-a74f-45fe-b7c9-9e768ec7ccbb.png">
+
 ```python
 #menampilkan tulisan 'Hello' di layar
 print("Hello")
@@ -40,12 +43,15 @@ print("Hello")
 print("Saya sedang belajar python")
 ```
 * klik tombol run
+<img width="161" alt="2" src="https://user-images.githubusercontent.com/123891182/215348790-fda83071-b70f-49cf-bada-08828377bcc5.png">
 
-![run python](https://user-images.githubusercontent.com/47426095/196225970-24f8e914-92ba-4f2b-8094-e67844053d1c.PNG)
+![run python]
 
 * maka akan muncul program yang dijalankan
 
-![output latihan1](https://user-images.githubusercontent.com/47426095/196226031-5cf0d83f-7851-4915-8e9a-ba29573e4149.PNG)
+![output latihan1]
+<img width="733" alt="3" src="https://user-images.githubusercontent.com/123891182/215348801-b620f310-414f-41e2-bbb3-5fe64df84115.png">
+
 ```
 Hello
 Saya sedang belajar python
@@ -55,11 +61,15 @@ Saya sedang belajar python
 ## Latihan 2
 * buat file latihan2.py
 
-![buat file latihan2](https://user-images.githubusercontent.com/47426095/196226746-77ab9834-d5d9-478e-95b9-84c2a5929079.PNG)
+![buat file latihan2]
+<img width="112" alt="b" src="https://user-images.githubusercontent.com/123891182/215348823-0aab8d6d-ddae-403e-a20b-28fdb7783c29.png">
+
 
 * tulis kode seperti contoh
 
-![sc latihan2](https://user-images.githubusercontent.com/47426095/196226836-40354e47-58b9-41e1-984f-976a927d2750.PNG)
+![sc latihan2]
+<img width="417" alt="4" src="https://user-images.githubusercontent.com/123891182/215348831-fefae063-f7a9-431b-9d9a-bb4f9df6463e.png">
+
 ``` python
 # menjumlahkan dua bilangan menggunakan variabel a & b
 a = 8
@@ -73,11 +83,15 @@ print("hasil penjumlahan a + b =", a+b)
 
 * klik tombol run
 
-![run python](https://user-images.githubusercontent.com/47426095/196226867-b202f7d9-79ae-4577-b93f-8279d92d42a5.PNG)
+![run python]
+<img width="161" alt="5" src="https://user-images.githubusercontent.com/123891182/215348846-9c6a351f-459b-4435-8110-6bee47579755.png">
+
 
 * maka akan muncul program yang dijalankan
 
-![output latihan2](https://user-images.githubusercontent.com/47426095/196226922-3323d8f6-6c99-496f-a256-6be4fa13e638.PNG)
+![output latihan2]
+<img width="417" alt="6" src="https://user-images.githubusercontent.com/123891182/215348858-761d1bdc-3292-4f56-9432-153511ecb3ce.png">
+
 
 ```
 Variabel a = 8
@@ -89,11 +103,15 @@ hasil penjumlahan a + b = 14
 ## Latihan 3
 * buat file latihan3.py
 
-![buat file latihan3](https://user-images.githubusercontent.com/47426095/196228787-1fa10f4d-ac73-4f1f-a4ba-4f214f2d713b.PNG)
+![buat file latihan3]
+<img width="112" alt="c" src="https://user-images.githubusercontent.com/123891182/215348865-f35cf1c5-75aa-4c05-8220-06e4adbd58bd.png">
+
 
 * tulis kode seperti contoh
 
-![sc latihan3](https://user-images.githubusercontent.com/47426095/196258729-9f8bb060-8d79-4dc9-9371-ce84242b866a.PNG)
+![sc latihan3]
+<img width="161" alt="7" src="https://user-images.githubusercontent.com/123891182/215348879-42e4b2b1-f78c-41a0-93a8-5897d6f526b1.png">
+
 
 ```python
 #input nilai variabel
@@ -116,11 +134,15 @@ print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))
 ```
 * klik tombol run
 
-![run python](https://user-images.githubusercontent.com/47426095/196228887-fddb8a47-afc5-4476-af01-e03a07e849ab.PNG)
+![run python]
+<img width="457" alt="8" src="https://user-images.githubusercontent.com/123891182/215348895-0fac6eca-abb9-4c18-b724-b2aafc0efc35.png">
+
 
 * maka akan muncul program yang dijalankan, jangan lupa masukan angka
 
-![output latihan3](https://user-images.githubusercontent.com/47426095/196228930-50635265-af56-4313-98db-6b3e90d333e1.PNG)
+![output latihan3]
+<img width="457" alt="9" src="https://user-images.githubusercontent.com/123891182/215348906-515cabe2-c514-45f5-91bd-e4041e4f3af5.png">
+
 ```
 masukan nilai pertama: 6
 masukan nilai kedua: 8
