@@ -28,7 +28,9 @@
 ## Latihan 1
 * buat file latihan1.py
 
-![buat file latihan1]<img width="112" alt="a" src="https://user-images.githubusercontent.com/123891182/215348760-afe311c0-ae56-41c7-a0db-47a2efc436d1.png">
+![buat file latihan1]
+
+<img width="112" alt="a" src="https://user-images.githubusercontent.com/123891182/215348760-afe311c0-ae56-41c7-a0db-47a2efc436d1.png">
 
 * tulis kode seperti contoh
 
