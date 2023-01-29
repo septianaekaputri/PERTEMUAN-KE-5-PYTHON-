@@ -67,8 +67,9 @@ Saya sedang belajar python
 
 * tulis kode seperti contoh
 
+<img width="457" alt="8" src="https://user-images.githubusercontent.com/123891182/215349230-66f185da-ab7d-4b14-8f93-2abbd2bef33d.png">
 
-<img width="417" alt="4" src="https://user-images.githubusercontent.com/123891182/215348831-fefae063-f7a9-431b-9d9a-bb4f9df6463e.png">
+
 
 ``` python
 # menjumlahkan dua bilangan menggunakan variabel a & b
@@ -84,7 +85,7 @@ print("hasil penjumlahan a + b =", a+b)
 * klik tombol run
 
 
-<img width="161" alt="5" src="https://user-images.githubusercontent.com/123891182/215348846-9c6a351f-459b-4435-8110-6bee47579755.png">
+<img width="161" alt="7" src="https://user-images.githubusercontent.com/123891182/215349220-6712c354-d1ad-473b-ae7a-2d18eecdbc06.png">
 
 
 * maka akan muncul program yang dijalankan
